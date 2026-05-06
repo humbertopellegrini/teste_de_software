@@ -38,7 +38,7 @@ O fork cria uma copia do repositorio na sua conta pessoal do GitHub
 ### 2. Clone o fork localmente
 
 ```bash
-git clone https://github.com/SEU-USUARIO/cc8550-cicd-lab.git
+git clone https://github.com/Rossi-Luciano/teste_de_software.git
 cd cc8550-cicd-lab
 ```
 
