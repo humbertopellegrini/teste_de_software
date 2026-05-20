@@ -1,6 +1,6 @@
 # CC8550 — CI/CD Lab
 
-![CI](https://github.com/SEU-USUARIO/teste_de_software/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/humbertopellegrini/teste_de_software/actions/workflows/ci.yml/badge.svg)
 
 Repositório de apoio para a atividade prática de CI/CD da disciplina **CC8550 — Simulação e Teste de Software** (Centro Universitário FEI).
 
